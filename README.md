@@ -19,7 +19,7 @@ A RESTful API built with Flask that allows users to schedule messages for future
 - Git
 
 ## Setup Instructions
-1. **Clone the Repository**  
+1. **Clone the Repository** 
    ```bash
    git clone https://github.com/your-username/Time-Capsule-Message-Scheduler-API.git
    cd Time-Capsule-Message-Scheduler-API
